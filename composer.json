@@ -1,0 +1,14 @@
+{
+    "name": "zxtian/diy-cps",
+    "description": "There is no des, expect trying.",
+    "type": "composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zxtian",
+            "email": "ss_zxt@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
